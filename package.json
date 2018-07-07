@@ -1,0 +1,25 @@
+{
+  "name": "nodejs_rest_api",
+  "version": "1.0.0",
+  "description": "NodeJs rest-api for Restuarant service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pasan-nadeeja-dev/nodejs_rest_api.git"
+  },
+  "keywords": [
+    "nodejs",
+    "mongoose",
+    "express",
+    "rest-api"
+  ],
+  "author": "P. Nadeeja",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pasan-nadeeja-dev/nodejs_rest_api/issues"
+  },
+  "homepage": "https://github.com/pasan-nadeeja-dev/nodejs_rest_api#readme"
+}
