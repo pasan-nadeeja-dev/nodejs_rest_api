@@ -2,7 +2,7 @@
   "name": "nodejs_rest_api",
   "version": "1.0.0",
   "description": "NodeJs rest-api for Restuarant service",
-  "main": "index.js",
+  "main": "dist",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -21,5 +21,14 @@
   "bugs": {
     "url": "https://github.com/pasan-nadeeja-dev/nodejs_rest_api/issues"
   },
-  "homepage": "https://github.com/pasan-nadeeja-dev/nodejs_rest_api#readme"
+  "homepage": "https://github.com/pasan-nadeeja-dev/nodejs_rest_api#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "mongoose": "^5.2.1"
+  },
+  "devDependencies": {
+    "eslint": "^5.0.1",
+    "nodemon": "^1.17.5"
+  }
 }
